@@ -1,0 +1,13 @@
+﻿  pch.cpp
+  ConsoleApplication24.cpp
+d:\visualcode\consoleapplication24\consoleapplication24\consoleapplication24.cpp(42): warning C4309: '=': truncation of constant value
+d:\visualcode\consoleapplication24\consoleapplication24\consoleapplication24.cpp(43): warning C4309: '=': truncation of constant value
+d:\visualcode\consoleapplication24\consoleapplication24\consoleapplication24.cpp(47): warning C4309: '=': truncation of constant value
+d:\visualcode\consoleapplication24\consoleapplication24\consoleapplication24.cpp(48): warning C4309: '=': truncation of constant value
+d:\visualcode\consoleapplication24\consoleapplication24\consoleapplication24.cpp(177): warning C4309: 'initializing': truncation of constant value
+d:\visualcode\consoleapplication24\consoleapplication24\consoleapplication24.cpp(210): warning C4309: 'initializing': truncation of constant value
+d:\visualcode\consoleapplication24\consoleapplication24\consoleapplication24.cpp(211): warning C4309: 'initializing': truncation of constant value
+d:\visualcode\consoleapplication24\consoleapplication24\consoleapplication24.cpp(278): warning C4309: 'initializing': truncation of constant value
+d:\visualcode\consoleapplication24\consoleapplication24\consoleapplication24.cpp(279): warning C4309: 'initializing': truncation of constant value
+d:\visualcode\consoleapplication24\consoleapplication24\consoleapplication24.cpp(305): warning C4309: '=': truncation of constant value
+  ConsoleApplication24.vcxproj -> D:\visualcode\ConsoleApplication24\Debug\ConsoleApplication24.exe

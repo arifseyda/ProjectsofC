@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\arifseyda\desktop\b171210393_2c_odev4\programlamaya_giris_odev4\source.cpp(210): warning C4715: 'Sifre::AlfabeHarf': not all control paths return a value
+c:\users\arifseyda\desktop\b171210393_2c_odev4\programlamaya_giris_odev4\source.cpp(266): warning C4715: 'Sifre::AlfabeSayi': not all control paths return a value
+  Programlamaya_Giris_Odev4.vcxproj -> C:\Users\arifseyda\Desktop\B171210393_2c_odev4\Debug\Programlamaya_Giris_Odev4.exe

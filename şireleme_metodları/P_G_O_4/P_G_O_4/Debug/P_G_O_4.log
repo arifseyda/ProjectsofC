@@ -1,0 +1,11 @@
+﻿  Source.cpp
+c:\users\elimirze\desktop\p_g_o_4\p_g_o_4\source.cpp(81): warning C4018: '<': signed/unsigned mismatch
+c:\users\elimirze\desktop\p_g_o_4\p_g_o_4\source.cpp(94): warning C4018: '<': signed/unsigned mismatch
+c:\users\elimirze\desktop\p_g_o_4\p_g_o_4\source.cpp(111): warning C4018: '<': signed/unsigned mismatch
+c:\users\elimirze\desktop\p_g_o_4\p_g_o_4\source.cpp(241): warning C4018: '<': signed/unsigned mismatch
+c:\users\elimirze\desktop\p_g_o_4\p_g_o_4\source.cpp(243): warning C4018: '<': signed/unsigned mismatch
+c:\users\elimirze\desktop\p_g_o_4\p_g_o_4\source.cpp(260): warning C4018: '<': signed/unsigned mismatch
+c:\users\elimirze\desktop\p_g_o_4\p_g_o_4\source.cpp(262): warning C4018: '<': signed/unsigned mismatch
+c:\users\elimirze\desktop\p_g_o_4\p_g_o_4\source.cpp(237): warning C4715: 'Sifre::AlfabeSayi': not all control paths return a value
+c:\users\elimirze\desktop\p_g_o_4\p_g_o_4\source.cpp(181): warning C4715: 'Sifre::AlfabeHarf': not all control paths return a value
+  P_G_O_4.vcxproj -> C:\Users\Elimirze\Desktop\P_G_O_4\Debug\P_G_O_4.exe
